@@ -1,5 +1,5 @@
-var total, actualTotal=0;
-var i;
+let total, actualTotal=0;
+let i;
 
 function missing(){
   total=5050;
